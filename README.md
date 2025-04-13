@@ -1,8 +1,5 @@
 # Hi there 👋
 
-<!--
-**NikSuPNU/NikSuPNU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🔭 I’m currently working with a data engineering stack that includes Hadoop (HDFS), Apache Spark, Airflow, and PostgreSQL to build scalable data pipelines and distributed processing workflows.
 
 ## 🛠️ Tech Stack I'm Working With
@@ -60,5 +57,4 @@ I'm currently focused on building data-intensive applications using a modern dat
 
 🚀 *Always exploring new ways to optimize data pipelines and build scalable, production-ready workflows.*
 
-- 📫 How to reach me: niksu.831@gmail.com
--->
+## 📫 How to reach me: niksu.831@gmail.com
