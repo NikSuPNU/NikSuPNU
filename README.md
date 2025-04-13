@@ -36,11 +36,6 @@ I'm currently focused on building data-intensive applications using a modern dat
 - **Parquet, CSV, JSON:**  
   Working with various data formats for efficient storage, serialization, and exchange.
 
-## 🧠 Cluster & Infrastructure Basics
-
-- **Kubernetes (basic):**  
-  Exploring distributed system fundamentals, including master/worker nodes and task scheduling.
-
 ## 🔄 ETL/ELT Pipelines
 
 - Designing and managing pipelines to ingest, transform, and load data from multiple sources into storage/analytics platforms.
