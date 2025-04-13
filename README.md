@@ -23,7 +23,7 @@ I'm currently focused on building data-intensive applications using a modern dat
 ## 🐍 Programming & Tools
 
 - **Python:**  
-  Developing backend logic, data processing scripts, and workflow automation using Python, including functional programming and asynchronous patterns.
+  Developing backend logic, data processing scripts, and workflow automation using Python, including functional programming.
 
 - **Pandas:**  
   Data manipulation, cleaning, and transformation for intermediate processing steps or smaller-scale tasks.
