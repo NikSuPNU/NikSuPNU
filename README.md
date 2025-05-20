@@ -44,10 +44,6 @@ I'm currently focused on building data-intensive applications using a modern dat
 
 - **Apache Kafka:**  
   Exploring real-time data streaming and message brokering.
-
-- **Scala:**  
-  Planning to use Scala for high-performance data processing on the JVM with Spark.
-
 ---
 
 🚀 *Always exploring new ways to optimize data pipelines and build scalable, production-ready workflows.*
